@@ -3,6 +3,7 @@ ITSC 3160 assignment
 
 Introduction 
 Team: Elise Paliga, Olivia Neumann, Colin Coffie, Hamza Yousafzai, and Sean Epley
+
 Description: 
 
 Use Case for Rating System
