@@ -1,0 +1,53 @@
+Person
+ - Rows: 100
+ - 
+
+Staff
+ - Rows: 20
+ - References persons 1-20
+
+Faculty
+ - Rows: 20
+ - References persons 21-40
+
+Student
+ - Rows: 60
+ - References persons 41-100
+
+Restaruant
+ - Rows: 2
+ - 
+
+Driver
+ - Rows: 15
+ - References students 1-15
+
+Vehicle
+ - Rows: 15
+ - 
+
+Order
+ - Rows: 100
+ - 
+
+Delivery
+ - Rows: 100
+ - 
+
+Location
+ - Rows: 100
+ - 
+
+Rating
+ - Rows: 100
+ - 
+
+DriverRating
+ - Rows: 50
+ - References ratings 1-50
+
+RestaurantRating
+ - Rows: 50
+ - References ratings 51-100
+
+
